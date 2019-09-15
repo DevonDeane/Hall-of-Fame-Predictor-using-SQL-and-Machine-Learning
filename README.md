@@ -1,4 +1,4 @@
-# Final Project ECE 656 WInter 2019
+## Final Project ECE 656 Winter 2019
    -Diego Cepeda 20763269
    -Devon Deane 20788525
    -Yeganeh Sana 20767809
