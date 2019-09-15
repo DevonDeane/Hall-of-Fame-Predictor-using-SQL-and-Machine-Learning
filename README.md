@@ -3,13 +3,13 @@
    -Devon Deane 20788525
    -Yeganeh Sana 20767809
 
-## Description of the program##
-Predic whether a Batter/Pitcher is going to be nominatd to the Hall Of Fame based on their career statistics.
+## Description of the program
+Predict whether a Batter/Pitcher is going to be nominatd to the Hall Of Fame based on their career statistics.
    
    -Select table to use.
    -Select 10 features. 
-   -Choose % of data used for training the model.
-   -Choose Classifier used Decicion-Tree/Naive-Bayes.
+   -Choose percentage of data to be used for training the model.
+   -Choose Classifier to be used (Decicion-Tree or Naive-Bayes).
 
 ## Required python packages can be found in the requirements.txt file located within the folder
 ## To automatically install these dependencies the command below can be used
